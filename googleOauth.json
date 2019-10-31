@@ -1,0 +1,13 @@
+{
+    "web": {
+        "client_id": "705543491822-il8ttm3qm1ocu6ndj7bvhvlbssu3k5oj.apps.googleusercontent.com",
+        "project_id": "cinemativ8-1572517414714",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "wzvz8lpvlFVD-JpIxkF9Zu92",
+        "javascript_origins": [
+            "http://localhost:8080"
+        ]
+    }
+}

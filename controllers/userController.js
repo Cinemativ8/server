@@ -2,7 +2,7 @@ const User = require('../models/user');
 const hashPassword = require('../helpers/hashPassword');
 const jwtHandler = require('../helpers/jwtHandler');
 const googleMapsClient = require('@google/maps').createClient({
-    key: 'AIzaSyCkoZnz8u6uszDXFRyMzajapv1_K9WlYAY',
+    key: process.env.MAP_API,
     Promise: Promise
   });
 

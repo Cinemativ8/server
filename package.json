@@ -30,6 +30,8 @@
     "google-auth-library": "^5.5.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.7",
-    "sweetalert": "^2.1.2"
+    "sweetalert": "^2.1.2",
+    "trakt.tv": "^7.2.0",
+    "trakt.tv-images": "^5.2.0"
   }
 }

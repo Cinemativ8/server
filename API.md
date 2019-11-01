@@ -38,7 +38,7 @@ Base URL: `http://localhost:8080`
   `GET`
 * **Success Response:**
   * **Code:** 200 
-  *  **Content:** ``
+  *  **Content:** `{ json }`
 * **Error Response:**
   * **Code:** 500 Internal Server Error 
     **Content:** `{ error : "fail to fetch data from 3rd party API" }`

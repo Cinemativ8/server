@@ -88,7 +88,7 @@ Base URL: `http://localhost:8080`
   ```
   
   
-   **4. OMDB**
+**4. OMDB**
 ----
   Return movie detail from IMDB
 
@@ -122,7 +122,7 @@ Base URL: `http://localhost:8080`
   ```
   
 
-   **5. Movies**
+**5. Movies**
 ----
   Return movie data from Trakt based on various parameters
   
